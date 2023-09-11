@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "luis perez",
+      "email": "luis@gmail.com",
+      "telefono": "1138785521",
+      "comentario": "kolj",
+      "id": 1
+    },
+    {
+      "nombre": "ANNA SOFIA",
+      "email": "menare04@gmail.com",
+      "telefono": "411653563",
+      "comentario": "bjhvhjvhn",
+      "id": 2
+    },
+    {
+      "nombre": "Mariana Paredes",
+      "email": "pmariana13@gmail.com",
+      "telefono": "1170811389",
+      "comentario": "prueba",
+      "id": 3
+    }
+  ]
+}
